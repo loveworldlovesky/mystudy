@@ -1,6 +1,5 @@
 package cn.zwc.domain;
 
-
 //用户信息类
 public class User{
 	
